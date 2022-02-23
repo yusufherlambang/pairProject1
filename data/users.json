@@ -4,19 +4,11 @@
         "password": "dimkur"
     },
     {
-        "email": "ucupucup@mail.com",
+        "email": "ucup@mail.com",
         "password": "ucup"
     },
     {
-        "email": "moko@mail.com",
-        "password": "mokomoko"
-    },
-    {
-        "email": "koroko@mail.com",
-        "password": "koroko"
-    },
-    {
-        "email": "naruto@mail.com",
-        "password": "naruto"
+        "email": "kakashi@mail.com",
+        "password": "kakashi"
     }
 ]
