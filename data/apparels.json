@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Luffy (M)",
+        "style": "Short Sleve",
+        "stock": "50",
+        "price": "70000",
+        "picture": "httpsimages.tokopedia.netimgcache500-squareVqbcmM2020811957725d5-ac4d-495c-ac79-54298bf8ba94.jpg"
+    },
+    {
+        "name": "Doraemon (L)",
+        "style": "Short Sleve",
+        "stock": "20",
+        "price": "80000",
+        "picture": "https://id-test-11.slatic.net/p/cb134a665b9842bdd7d0874b28207352.jpg"
+    },
+    {
+        "name": "Mickey (S)",
+        "style": "Short Sleve",
+        "stock": "10",
+        "price": "70000",
+        "picture": "https://cf.shopee.co.id/file/10c8277176f9d51a12239889722b0207"
+    },
+    {
+        "name": "Kakashi (XL)",
+        "style": "Long Sleve",
+        "stock": "15",
+        "price": "85000",
+        "picture": "https://cf.shopee.co.id/file/719e112203473c4f4cb0d4fb4e90acd0"
+    },
+    {
+        "name": "Luffy (L)",
+        "style": "Long Sleve",
+        "stock": "13",
+        "price": "80000",
+        "picture": "https://cf.shopee.co.id/file/6498465a60b98244a225c238932b55c3"
+    }
+]

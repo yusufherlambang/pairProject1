@@ -1,0 +1,18 @@
+[
+    {
+        "item": "Luffy (M)",
+        "style": "Short Sleve",
+        "quantity": "1",
+        "totalPrice": "70000",
+        "UserId": "1",
+        "ApparelId": "1"
+    },
+    {
+        "item": "Doraemon (L)",
+        "style": "Short Sleve",
+        "quantity": "2",
+        "totalPrice": "160000",
+        "UserId": "1",
+        "ApparelId": "2"
+    }
+]
