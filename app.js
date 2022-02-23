@@ -29,10 +29,12 @@
 const express = require('express')
 const app = express()
 const port = 3003
+const routes = require('./routes/index.js')
 
-app.get('/', (req, res) => {
-  res.send('kakakak')
-})
+app.set('view engine', 'ejs')
+// app.use(express.urlencoded({extends : true}))
+
+app.use('/', routes)
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
