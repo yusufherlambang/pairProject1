@@ -2,11 +2,13 @@
 
 // sequelize model:generate --name Profile --attributes name:string,address:string,UserId:integer
 
-// sequelize model:generate --name ShoppingCart --attributes item:string,quantity:string,totalPrice:integer
+// sequelize model:generate --name Apparel --attributes name:string,style:string,stock:integer,price:integer,picture:string
+
+// sequelize model:generate --name ShoppingCart --attributes item:string,style:string,quantity:integer,totalPrice:integer
 
 // sequelize migration:generate --name add-UserId-to-ShoppingCart
+// sequelize migration:generate --name add-ApparelId-to-ShoppingCart
 
-// sequelize model:generate --name Apparel --attributes name:string,style:string,stock:integer,price:integer,picture:string,ShoppingCartId:integer
 
 // sequelize db:migrate
 
